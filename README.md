@@ -1,6 +1,6 @@
 # Emporium Support Tool
 
-A Windows system diagnostics and support utility built with Rust and [egui](https://github.com/emilk/egui). Designed for quick hardware/software auditing and common support tasks.
+A Windows system diagnostics and support utility built with Rust and [egui](https://github.com/emilk/egui). Built to streamline Discord support tickets for gaming communities like [The Emporium](https://theemporium.xyz/) — lets support staff quickly gather system info, check security settings, and resolve common issues without back-and-forth.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
